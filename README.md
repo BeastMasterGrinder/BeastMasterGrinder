@@ -54,16 +54,6 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/muhammad-farjad-665540226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/muhammad-farjad-665540226/" height="30" width="40" /></a>
-<a href="https://kaggle.com/muhammad farjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammad farjad" height="30" width="40" /></a>
-<a href="https://instagram.com/farjad.does.alot.of.tinks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farjad.does.alot.of.tinks" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/syntaxsensei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syntaxsensei" height="30" width="40" /></a>
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beastmastergrinder&show_icons=true&locale=en&layout=compact" alt="beastmastergrinder" /></p>
-
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=beastmastergrinder&" alt="beastmastergrinder" /></p>
 
 </div>
