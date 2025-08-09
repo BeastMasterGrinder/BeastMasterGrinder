@@ -16,10 +16,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught SWE
 - Boxing in my spare time
 - Currently learning Blockchain & Machine Learning by Self
-- I’m currently open for an Intern or a new job opportunity.
+- Hit me up on email@farjad.me.
 - 📄 Know about my experiences [https://drive.google.com/file/d/145mjwgUHjvegEZq-82EelmFnpfV5dW39/view?usp=sharing](https://drive.google.com/file/d/145mjwgUHjvegEZq-82EelmFnpfV5dW39/view?usp=sharing)
 
 <br><br>
