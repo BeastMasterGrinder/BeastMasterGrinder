@@ -17,8 +17,6 @@ I publish on LinkedIn — architecture post-mortems, build-vs-buy breakdowns, an
 **Reach me**
 
 Open to conversations about distributed systems, AI infrastructure, and the hard parts of scaling small teams.
-→ `farjad@clipfarmer.io`
+→ `email@farjad.me`
 
 ---
-
-> Code is a decision made permanent. Documentation is the decision-making process made visible.
