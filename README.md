@@ -1,6 +1,6 @@
 ### Muhammad Farjad
 
-Tech lead. I ship distributed systems in Go and Python, run 50-server fleets, and build AI pipelines that stay up under real load.
+Tech lead. I ship distributed systems in Go and Python, run 50-server fleets, build AI pipelines that stay up under real load and build CRMs. <br> Worked at Cowlar YC W-17 <br><br>
 Now working on 5k+/s calls on distributed VOIP routing SAAS. Using AI to make sure those call centers and agents get their bonus (or not 😈)
 
 ---
