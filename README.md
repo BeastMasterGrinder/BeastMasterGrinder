@@ -1,14 +1,9 @@
 ### Muhammad Farjad
 
 Tech lead. I ship distributed systems in Go and Python, run 50-server fleets, and build AI pipelines that stay up under real load.
+Now working on 5k+/s calls on distributed VOIP routing SAAS. Using AI to make sure those call centers and agents get their bonus (or not 😈)
 
 ---
-
-**Currently shipping**
-
-- Real-time chat-rate hype detection across Twitch and Kick — tens of concurrent streams, sub-second clip triggers, FFmpeg fallback when the platform API refuses.
-- A multi-provider LLM evaluation platform with caching, retries, and cost guardrails in the hot path.
-- A 9:16 reel conversion pipeline (FFmpeg + Celery) gating behind a Paddle-powered SaaS.
 
 **How I work**
 
